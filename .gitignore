@@ -1,0 +1,13 @@
+# Large data files (not tracked)
+OceanGrid/src/coordinates/meshply.ply
+OceanGrid/src/coordinates/tubes_7.ply
+OceanGrid/src/trajectories/sa_100fragscale.nc
+
+# Build Folders
+cmake-build-*/
+build/
+
+# IDE
+.idea
+*.vcxproj*
+*.sln
